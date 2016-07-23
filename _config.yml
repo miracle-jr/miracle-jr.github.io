@@ -14,14 +14,14 @@ permalink:           pretty
 
 # Setup
 title:            Computing Thoughts
-tagline:          Bruce Eckel's Programming Blog
-url:              http://bruceeckel.github.io/
+tagline:          Artemiadis's Programming Blog
+url:              http://miracle-jr.github.io/
 paginate:            5
 baseurl:          /
 
 # About/contact
 author:
-  name:           Bruce Eckel
-  url:            http://www.mindviewinc.com
-  email:          mindviewinc@gmail.com
+  name:           Artemiadis
+  url:            http://miracle-jr.github.io/
+  email:          geniuses2000@gmail.com
 
