@@ -13,7 +13,7 @@ fenced_code_blocks:  true
 permalink:           pretty
 
 # Setup
-title:            Computing Thoughts
+title:            Program Learning
 tagline:          Artemiadis's Programming Blog
 url:              http://miracle-jr.github.io/
 paginate:            5
